@@ -12,3 +12,5 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img align="center" alt="python" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div><br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioBeividas&layout=compact)](https://github.com/OtavioBeividas/github-readme-stats)
