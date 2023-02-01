@@ -14,3 +14,5 @@ I'm 19 years old, currently studying Information Systems at college. Working as 
 
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OtavioBeividas&layout=compact)](https://github.com/OtavioBeividas/github-readme-stats)
+  
+![snake gif](https://github.com/OtavioBeividas/OtavioBeividas/blob/output/github-contribution-grid-snake.svg)
