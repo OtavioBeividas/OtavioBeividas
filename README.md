@@ -1,9 +1,10 @@
-### I'm Otávio Beividas, programming student and Back-end developer, future full-stack developer
+### I'm 19 years old, currently studying Information Systems at college.
+Currently working as a back-end development intern at TechMax Soluções.
+Learning frappe and getting deeper into Python.
 
-- 🔭 I’m currently working with back-end
-- 📝 Learning Frappe
+## Linkedin
 
-![OtavioBeividas's GitHub stats](https://github-readme-stats.vercel.app/api?username=OtavioBeividas&show_icons=true&theme=radical)
+<a href="https://www.linkedin.com/in/otaviobeividas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ## Skills
 
