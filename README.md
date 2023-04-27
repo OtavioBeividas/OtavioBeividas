@@ -1,6 +1,6 @@
 ## About me
 
-I'm 19 years old, currently studying Information Systems at college. Working as a back-end development intern at TechMax Soluções. Learning frappe and getting deeper into Python.
+I'm 19 years old, currently studying Information Systems at college. Working as a back-end development intern at TechMax Soluções. Learning Frappe and Docker. Getting deeper into Python.
 
 ## Linkedin
 
