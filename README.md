@@ -1,6 +1,6 @@
 ## About me
 
-I'm 20 years old, currently studying Information Systems at college. Working as a back-end development at TechMax Soluções. Learning Frappe and Docker. Getting deeper into Python.
+I'm 20 years old, currently studying Information Systems at college. Working as a back-end development at Aptitude Technologies. Learning Frappe and Docker. Getting deeper into Python.
 
 ## Linkedin
 
