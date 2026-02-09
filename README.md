@@ -1,6 +1,6 @@
 ## About me
 
-I'm 20 years old, currently studying Information Systems at college. Working as a back-end development at Aptitude Technologies. Learning Frappe and Docker. Getting deeper into Python.
+I'm 22 years old, graduated in Information Systems. Full-stack Developer with experience in global projects. Getting deeper into Python.
 
 ## Linkedin
 
