@@ -4,6 +4,9 @@ Data Analyst | Python, SQL & BI Enthusiast
 Backend Developer focused on Data Analytics and Business Intelligence  
 Turning data into insights and decisions
 
+📍 Brazil
+💼 Open to Data Analyst roles
+
 ## Linkedin
 
 <a href="https://www.linkedin.com/in/otaviobeividas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
