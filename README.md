@@ -1,6 +1,8 @@
 ## About me
 
-I'm 22 years old, graduated in Information Systems. Full-stack Developer with experience in global projects. Getting deeper into Python.
+Data Analyst | Python, SQL & BI Enthusiast  
+Backend Developer focused on Data Analytics and Business Intelligence  
+Turning data into insights and decisions
 
 ## Linkedin
 
