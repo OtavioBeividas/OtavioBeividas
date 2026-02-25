@@ -1,11 +1,35 @@
 ## About me
 
-Data Analyst | Python, SQL & BI Enthusiast  
-Backend Developer focused on Data Analytics and Business Intelligence  
-Turning data into insights and decisions
+# Hi, I'm Otávio 👋
 
-📍 Brazil
-💼 Open to Data Analyst roles
+Backend Engineer with 3+ years of experience building scalable backend systems using Python.
+
+## 🚀 About Me
+- Backend Developer specialized in Python APIs and automation
+- Experience with ERP systems used by international clients
+- Cloud-focused development using AWS
+- Strong background in system integrations and backend architecture
+- Interested in Data Engineering and AI-powered applications
+
+## 🧰 Tech Stack
+- Python
+- FastAPI / REST APIs
+- SQL & NoSQL Databases
+- Docker
+- AWS
+- Automation & Integrations
+- Git & CI/CD
+
+## 📌 Featured Projects
+- Scalable Python APIs
+- Automation Systems
+- Cloud-based Backend Services
+- AI Integrations
+
+## 🌎 Languages
+- Portuguese (Native)
+- English (Professional)
+- Spanish (Professional)
 
 ## Linkedin
 
