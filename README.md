@@ -1,11 +1,11 @@
 # Hi, I'm Otávio 👋
 
-**CEO @ Trianglo LTDA** · Automation-focused Backend Engineer · Python
+**Founder & Partner @ Trianglo LTDA** · Automation-focused Backend Engineer · Python
 
-I build automations and backend systems that keep a digital business running with fewer manual steps, and I lead **Trianglo LTDA**, a digital company operating across **SaaS**, **digital products** and **physical products**.
+I build automations and backend systems that keep a digital business running with fewer manual steps. I'm the founder and a partner of **Trianglo LTDA**, a digital company operating across **SaaS**, **digital products** and **physical products**.
 
 ## 🚀 About Me
-- 🏢 CEO & founder of **Trianglo LTDA**: SaaS, digital products (infoprodutos) and e-commerce of physical goods
+- 🏢 Founder & partner of **Trianglo LTDA**: SaaS, digital products (infoprodutos) and e-commerce of physical goods
 - ⚙️ Focused on **automation**: sales, checkout, delivery, CRM, support and back-office workflows end to end
 - 🐍 4+ years building backend systems and APIs with Python
 - 🔗 Strong background in **system integrations**: payment gateways, ERPs, CRMs, marketing and logistics platforms
